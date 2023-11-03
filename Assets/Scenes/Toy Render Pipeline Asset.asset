@@ -12,3 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e227b9c6e29d48e89a649362adcda074, type: 3}
   m_Name: Toy Render Pipeline Asset
   m_EditorClassIdentifier: 
+  cubemap: {fileID: 8400000, guid: c298ad5190903734982cebf68538bbdd, type: 2}
+  rt: {fileID: 8400000, guid: 2f947808dd184c045939c58cab491096, type: 2}
